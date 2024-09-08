@@ -1,4 +1,4 @@
-# -AtliQ-Hospitality-Analysis-power bi
+
 # AtliQ Hospitality Analysis - PowerBI
 
 As part of the codebasics september month resume challenge, I have worked on this analysis project.
